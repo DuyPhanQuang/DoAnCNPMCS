@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/res/merged/debug/raw/phantren2.mp4",
+        "source": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/src/main/res/raw/phantren2.mp4"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/res/merged/debug/raw/phantren2.mp4",
+        "source": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/src/main/res/raw/phantren2.mp4"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/res/merged/debug/raw/phantren1.mp4",
+        "source": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/src/main/res/raw/phantren1.mp4"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/res/merged/debug/raw/phantren1.mp4",
+        "source": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/src/main/res/raw/phantren1.mp4"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/src_media_appicon_background1blur.jpg",
+        "source": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/src/main/res/drawable-mdpi/src_media_appicon_background1blur.jpg"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/src_media_appicon_background1blur.jpg",
+        "source": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/src/main/res/drawable-mdpi/src_media_appicon_background1blur.jpg"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/src_media_appicon_background1.jpg",
+        "source": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/src/main/res/drawable-mdpi/src_media_appicon_background1.jpg"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/src_media_appicon_background1.jpg",
+        "source": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/src/main/res/drawable-mdpi/src_media_appicon_background1.jpg"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/DuyPQ/Documents/DoAnReactNative/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/DuyPQ/Documents/DoAnCNPMCS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    }
+]
